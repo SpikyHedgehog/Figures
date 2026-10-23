@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Figures.Core/Figures.Core.csproj" />
+  <Project Path="FIgures.Logging/FIgures.Logging.csproj" />
+  <Project Path="Figures.WPF/Figures.WPF.csproj" />
+  <Project Path="Figures/Figures.App.csproj" />
+</Solution>
